@@ -1,6 +1,6 @@
 ❌⭕ Tic Tac Toe Web Application
 
-This is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript by Esha Dattaram Patil. It offers an interactive and elegant interface where users can play against each other — or even against a simple AI (optional enhancement).
+This is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript by Esha Dattaram Patil. It offers an interactive and elegant interface where users can play against each other or even against a simple AI (optional enhancement).
 
 🔸 Project Objective:
 
